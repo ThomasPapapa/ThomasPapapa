@@ -1,16 +1,36 @@
-## Hi there 👋
+# Thomas Papapaschos
 
-<!--
-**ThomasPapapa/ThomasPapapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android Engineer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building reliable, maintainable Android systems with a focus on architecture, performance, and long-term scalability.
+
+---
+
+## Focus
+
+* Clean, modular architectures
+* Kotlin-first development
+* Reactive patterns (Coroutines / Flow)
+* Performance and resource efficiency
+* Clear, testable code
+
+---
+
+## Experience
+
+Worked across production Android applications, contributing to architecture decisions, feature delivery, and codebase evolution.
+
+---
+
+## Stack
+
+Kotlin · Jetpack · Compose · Coroutines · Hilt · Koin · Room · REST
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/thomas-papapaschos/
+
